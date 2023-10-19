@@ -1,0 +1,12 @@
+{
+  "name": "js-testing-app",
+  "version": "1.0.0",
+  "description": "Simple Node JS App to Run Tests",
+  "main": "app-test.js",
+  "scripts": {
+    "test": "node app-test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
